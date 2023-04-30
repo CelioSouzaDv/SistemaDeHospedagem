@@ -1,0 +1,15 @@
+C:\Users\Celio\Desktop\C#\aulasCsharp\ProjetoHotel\bin\Debug\net7.0\ProjetoHotel.exe
+C:\Users\Celio\Desktop\C#\aulasCsharp\ProjetoHotel\bin\Debug\net7.0\ProjetoHotel.deps.json
+C:\Users\Celio\Desktop\C#\aulasCsharp\ProjetoHotel\bin\Debug\net7.0\ProjetoHotel.runtimeconfig.json
+C:\Users\Celio\Desktop\C#\aulasCsharp\ProjetoHotel\bin\Debug\net7.0\ProjetoHotel.dll
+C:\Users\Celio\Desktop\C#\aulasCsharp\ProjetoHotel\bin\Debug\net7.0\ProjetoHotel.pdb
+C:\Users\Celio\Desktop\C#\aulasCsharp\ProjetoHotel\obj\Debug\net7.0\ProjetoHotel.csproj.AssemblyReference.cache
+C:\Users\Celio\Desktop\C#\aulasCsharp\ProjetoHotel\obj\Debug\net7.0\ProjetoHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Celio\Desktop\C#\aulasCsharp\ProjetoHotel\obj\Debug\net7.0\ProjetoHotel.AssemblyInfoInputs.cache
+C:\Users\Celio\Desktop\C#\aulasCsharp\ProjetoHotel\obj\Debug\net7.0\ProjetoHotel.AssemblyInfo.cs
+C:\Users\Celio\Desktop\C#\aulasCsharp\ProjetoHotel\obj\Debug\net7.0\ProjetoHotel.csproj.CoreCompileInputs.cache
+C:\Users\Celio\Desktop\C#\aulasCsharp\ProjetoHotel\obj\Debug\net7.0\ProjetoHotel.dll
+C:\Users\Celio\Desktop\C#\aulasCsharp\ProjetoHotel\obj\Debug\net7.0\refint\ProjetoHotel.dll
+C:\Users\Celio\Desktop\C#\aulasCsharp\ProjetoHotel\obj\Debug\net7.0\ProjetoHotel.pdb
+C:\Users\Celio\Desktop\C#\aulasCsharp\ProjetoHotel\obj\Debug\net7.0\ProjetoHotel.genruntimeconfig.cache
+C:\Users\Celio\Desktop\C#\aulasCsharp\ProjetoHotel\obj\Debug\net7.0\ref\ProjetoHotel.dll
